@@ -1,0 +1,14 @@
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\bin\Debug\netcoreapp3.1\AdventOfCode2.exe
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\bin\Debug\netcoreapp3.1\AdventOfCode2.deps.json
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\bin\Debug\netcoreapp3.1\AdventOfCode2.runtimeconfig.json
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\bin\Debug\netcoreapp3.1\AdventOfCode2.runtimeconfig.dev.json
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\bin\Debug\netcoreapp3.1\AdventOfCode2.dll
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\bin\Debug\netcoreapp3.1\AdventOfCode2.pdb
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\obj\Debug\netcoreapp3.1\AdventOfCode2.csproj.AssemblyReference.cache
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\obj\Debug\netcoreapp3.1\AdventOfCode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\obj\Debug\netcoreapp3.1\AdventOfCode2.AssemblyInfoInputs.cache
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\obj\Debug\netcoreapp3.1\AdventOfCode2.AssemblyInfo.cs
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\obj\Debug\netcoreapp3.1\AdventOfCode2.csproj.CoreCompileInputs.cache
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\obj\Debug\netcoreapp3.1\AdventOfCode2.dll
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\obj\Debug\netcoreapp3.1\AdventOfCode2.pdb
+C:\Users\theod\Desktop\Programring\AdventOfCode\AdventOfCode2\obj\Debug\netcoreapp3.1\AdventOfCode2.genruntimeconfig.cache
