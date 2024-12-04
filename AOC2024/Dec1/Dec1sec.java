@@ -1,8 +1,6 @@
+import java.util.*;
 
-import java.util.ArrayList;
-import java.util.List;
-
-public class Dec1 {
+public class Dec1sec {
     public static void main(String[] args) {
         // Get the entire input as a single list
         List<String> input = Helper.readFile("Dec1/Input.txt");
@@ -10,7 +8,7 @@ public class Dec1 {
         // Setup for Dec1
         List<Integer> LeftSide = new ArrayList<>();
         List<Integer> RightSide = new ArrayList<>();
-        int answerLength = 0;
+        int answerSimilarityScore = 0;
 
         int i = 0;
         while (i < input.size()) {
@@ -19,11 +17,11 @@ public class Dec1 {
             RightSide.add(Integer.parseInt(line[1]));
             i++;
         }
-        LeftSide.sort(null);
-        RightSide.sort(null);
+
         for (int j = 0; j < LeftSide.size(); j++) {
-            answerLength += Math.abs(LeftSide.get(j) - RightSide.get(j));
+            Integer currentNum = LeftSide.get(j);
+            answerSimilarityScore += currentNum * Collections.frequency(RightSide, currentNum);
         }
-        System.out.println(answerLength);
+        System.out.println(answerSimilarityScore);
     }
 }
